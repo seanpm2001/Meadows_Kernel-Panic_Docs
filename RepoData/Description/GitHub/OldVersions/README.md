@@ -1,0 +1,1 @@
+🏞️⛔️📖️ The official documentation source repository for the kernel panic component of the Meadows operating system project. This interacts with the kernel, and carries on additional operations when a kernel panic occurs.
