@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🏞️⛔️📖️ The official documentation source repository for the kernel panic component of the Meadows operating system project. This interacts with the kernel, and carries on additional operations when a kernel panic occurs.
