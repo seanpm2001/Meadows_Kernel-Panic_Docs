@@ -74,7 +74,7 @@ Translations are currently done with Bing translate and DeepL. Support for Googl
 
 [11.0 - Sponsor info](#Sponsor-info)
 
-[12.0 - Contributers](#Contributers)
+[12.0 - Contributors](#Contributors)
 
 [13.0 - Issues](#Issues)
 
@@ -185,7 +185,7 @@ Try it out! The sponsor button is right up next to the watch/unwatch button.
 
 ## Software status
 
-All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
+All of my works are free with some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
 
 ![DRM-free_label.en.svg](/DRM-free_label.en.svg)
 
@@ -199,13 +199,13 @@ Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign
 
 ***
 
-## Contributers
+## Contributors
 
-Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
+Currently, I am the only contributor. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
 
 > * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of Yr, DoW, Month, DoM, at ##:## a/pm)
 
-> * 2. No other contributers.
+> * 2. No other contributors.
 
 ***
 
